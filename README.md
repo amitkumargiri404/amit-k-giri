@@ -1,5 +1,5 @@
 # ur quick coder ##amit-k-giri
-
+infinite curiosity 
 <!--
 **amit-k-giri/amit-k-giri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
